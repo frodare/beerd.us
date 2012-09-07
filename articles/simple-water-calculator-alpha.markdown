@@ -1,4 +1,4 @@
-Title: Simple Water Calculator (alpha)
+Title: Simple Water Calculator
 Author: Charles Howard
 Date: 2012-09-07 12:00
 
