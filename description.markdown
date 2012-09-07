@@ -1,12 +1,12 @@
-### About HowToNode.org
+### About beerd.us
 
-HowToNode.org is a community supported blog created by [Tim Caswell][]. The purpose of the blog is to teach how to do various tasks in [node.js][] as well as teach fundamental concepts that are needed to write effective code.
 
-This site is powered by [Wheat][], a git based blogging engine written in [node.JS][].
+Beerd Brewing is a group of homebrewers mostly based in North Florida.
+Our mission is to make quality homebrewed beer and have fun educating people about brewing.
 
-The content for this site is stored in a [git repository][] that anyone can fork, write an article, and send a pull request. If your article passes the quality standards it will be published and help support the greater node community.
+Follow us on [Facebook][] to see the latest creations.
 
-[Tim Caswell]: http://creationix.com/
-[node.js]: http://nodejs.org/
-[Wheat]: http://github.com/creationix/wheat
-[git repository]: http://github.com/creationix/howtonode.org
+This website will have some of our favorite hombrew recipes to share with everyone.
+Come check us out at the 2013 Pints for Paws fundraiser and drink some of our beers!
+
+[Facebook]: https://www.facebook.com/beerdbrews
