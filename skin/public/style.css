@@ -59,7 +59,7 @@ dl a:hover {
   left: 0;
   top: 0;
   width: 100%;
-  height: 50px;
+  height: 65px;
   background-color: #0054a6;
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #0054a6), color-stop(1, #004385));
   background-image: -webkit-linear-gradient(top, #804D02 0%, #512200 100%);
@@ -74,21 +74,21 @@ dl a:hover {
 }
 #header .logo {
   position: absolute;
-  top: -35px;
-  left: 18px;
+  top: 0;
+  left: 35px;
 }
 #header .tagline {
   float: left;
   display: inline;
   color: #fff;
-  margin-left: 240px;
-  font-size: 12px;
+  margin-left: 300px;
+  font-size: 16px;
   font-weight: normal;
   line-height: 10px;
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
-  margin-top: 19px;
+  margin-top: 30px;
 }
 .article {
   position: relative;
