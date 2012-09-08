@@ -2,6 +2,8 @@ Title: Results of Clarifying with Gelatin
 Author: Charles Howard
 Date: 2012-09-08 12:00
 
+TEST
+
 Clear beer is a big deal to me.  I know for a lot of home brewers cosmetics is not a factor, but I have to say it is for me.  Every since the first beer I brewed I have wanted it to be clearer faster (OK, maybe not the first, but the second; my first was a stout). Filtration is very alluring to me and I have dreamed about for some time. The problem I have with it is the price.  From what I can find the filters are expensive and can only one or a few times.  For this reason filtation has not been a viable option for me.
 
 I have used Irish moss in the past, but I as far as I can tell the end result is pretty much the same.  More recently I have learned that Irish moss works by helping some of the proteins in the wort, hot break I presume, participate out.  That explains why the finished beer still took weeks/months to clear.  After the hot break there is still the cold break and even more importantly yeast and anything else that might get suspended in the beer.  
