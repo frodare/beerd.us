@@ -5,11 +5,12 @@ Date: 2012-09-07 16:00
 
 Starting for our 2012 Pints for Paws fund raising affair, we decided to release some of our homebrew recipes to the public so that they could be recreated by aspiring homebrewers like ourselves.  These beers are always works in progess, but these were some of our more popular beverages we served.  
 
-![TallaGrassyIPA](http://pintsforpaws.org/files/4613/3796/5642/TallaGrassyIPA.png)
-
 Jose and I brewed this beer together.  Jose came up with the concept, I made up the recipe.
 
 ## Beer Description
+
+![TallaGrassyIPA](http://pintsforpaws.org/files/4613/3796/5642/TallaGrassyIPA.png)
+
 An amber colored American IPA made with lemon grass. Cascade and Sorachi Ace hops combine lemon, grapefruit and other citrus notes with a malt backbone that adds hints of honey and toasty malt. Fresh lemon grass is added just at the end of the boiling process to give the beer an ever so slight lemony flavor.
 
     ABV 5.5%
