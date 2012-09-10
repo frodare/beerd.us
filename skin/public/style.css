@@ -295,6 +295,11 @@ dl a:hover {
 #sidebar .bubble {
   margin-bottom: 20px;
 }
+
+#sidebar {
+  background: transparent url('beerd_trans_300.png') no-repeat 12px 30px;
+}
+
 #sidebar h3,
 #sidebar h4 {
   padding: 10px 0px;
