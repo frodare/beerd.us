@@ -13,6 +13,19 @@
 #sidebar
   .aside
     = markdownEncode(description)
+  
+  .bubble
+    %h4 Links
+    %div.link
+      %a{target:"_blank",href:"http://nfbl.org/"} Norh Florida Brewer's League
+    %div.link
+      %a{target:"_blank",href:"http://pintsforpaws.org/"} Pints for Paws
+    %div.link
+      %a{target:"_blank",href:"http://momospizza.com/the-brewery/"} Momo's Pizza and Brew
+    %div.link
+      %a{target:"_blank",href:"http://grasslandsbrewery.com/"} Grasslands Brewery
+
+
   .bubble
     %h4
       Articles
@@ -23,7 +36,12 @@
           &=" by " + article.author.name
           :if article.node
             %span.versiontag&= article.node
+  
+
+
+
+
   .bubble
     %h4 Related Reading
-    %a{target:"books",href:"http://http://www.howtobrew.com/"}
+    %a{target:"books",href:"http://www.howtobrew.com/"}
       %img{style:"height:188px;width:150px;border:0;",src:"http://www.howtobrew.com/images/home/htb3cover.jpg"}
