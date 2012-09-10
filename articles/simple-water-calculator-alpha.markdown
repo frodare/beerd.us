@@ -16,9 +16,11 @@ Other water calculators I have seen take in the salts to add and then show how c
 
 There are two factors to a water profile I am interested in: Residual Alkalinity (RA) and the Chloride to Sulfate Ratio.  Both of these factors can be roughly determined from the beer style.  A proof-of-concept version of my water calculator is below.  A lot of work still needs to be done, but I have already found it quite useful for my last few brews.
 
+<div style="color:#c41; text-align:center;margin-bottom:1em;">Proof of Concept &ndash; use at your own risk!</div>
+
 <div class="simple-water-calculator">
 	<div style="text-align:center;color:#55a;margin:1em 0;">Using Tallahassee Water</div>
-	<div>
+	<div style="margin:0 0 1em 0;">
 		<label>Volume of Water to Adjust (gallons)</label>
 		<input name="volume" type="text" size="5" value="14" />
 	</div>
@@ -59,11 +61,14 @@ There are two factors to a water profile I am interested in: Residual Alkalinity
 
 To use the calculator enter the about of water you need to treat, then select the beer color you are brewing using the top slider and then select the bitter/malty balance of your brewing water with the next slider. As you change the input parameters the CaSO (Gypsum) and CaCl (Calcium Chloride) amounts to add are adjusted below.
 
+All source code is part of the jsBrewCalc project and can be found on [github](http://github.com/frodare/jsBrewCalc).
+
 
 ## Planed Improvements
 
 The current state of this calculator is pretty rough.  There are many bugs I need to fix when I get the time along with many features I want to add.  Here is a list of what I am currently planning to add:
 
+1. Fix bugs, cleanup proof-of-concept code
 1. latic acid adjustments
 1. allow decreasing RA with Calcium Carbonate adjustments
 1. Magnesium Sulfate adjustments for low levels of Mg
