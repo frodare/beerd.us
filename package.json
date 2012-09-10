@@ -1,12 +1,12 @@
 {
-  "author": "Tim Caswell <tim@creationix.com> (http://creationix.com/)",
-  "name": "howtonode.org",
-  "description": "The popular blog howto.no.de",
+  "author": "Charles Howard <frodare@gmail.com> (http://beerd.us/)",
+  "name": "beerd.us",
+  "description": "Beerd Brewing is a group of homebrewers mostly based in North Florida",
   "version": "0.0.0",
-  "homepage": "http://howto.no.de/",
+  "homepage": "http://beerd.us/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/creationix/howtonode.org.git"
+    "url": "git://github.com/frodare/beerd.us.git"
   },
   "engines": {
     "node": ">=0.4.0"
