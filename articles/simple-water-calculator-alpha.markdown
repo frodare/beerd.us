@@ -1,6 +1,6 @@
 Title: Simple Water Calculator
 Author: Charles Howard
-Date: 2012-09-07 12:00
+Date: 2012-08-01 12:00
 
 
 A few months ago I got interested in the water chemistry of brewing, a subject at I have always avoided. When I first started brewing I would add some Gypsum every now and then not really knowing what it did, or how much to use.  

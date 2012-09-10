@@ -1,6 +1,6 @@
 Title: Boca Chica Brown Recipe
 Author: Sean Patronis
-Date: 2012-09-10 16:00
+Date: 2012-06-02 16:00
 
 
 A Dominican and English fusion.  A Northern English brown ale made with tamarind fruit.  The English Brown provides a base beer with malty flavor and aromas of toffee and chocolate as well as some fruity esters.  The tamarind fruit provides a sourness with dark plum notes.  In the end, a sweet and sour tasty fusion. 
