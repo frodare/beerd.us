@@ -4,7 +4,7 @@
       %a.sha-version{ href: "/#{article.version}/#{article.name}" } Static Version
     %h1
       %a{href: "/" + article.name}&= article.title
-    = markdownEncode(article.markdown)
+    = markdownEncode(article.content)
     %hr{style:"clear:both"}
     #disqus_thread.body
     :script
