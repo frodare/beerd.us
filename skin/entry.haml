@@ -1,14 +1,14 @@
 #main
   .article
-    :if article.version
-      %a.sha-version{ href: "/#{article.version}/#{article.name}" } Static Version
+    :if entry.version
+      %a.sha-version{ href: "/#{entry.version}/#{entry.name}" } Static Version
     %h1
-      %a{href: "/" + article.name}&= article.title
-    = markdownEncode(article.content)
+      %a{href: "/" + entry.name}&= entry.title
+    = markdownEncode(entry.content)
     %hr{style:"clear:both"}
     #disqus_thread.body
     :script
-      var disqus_url = "http://beerd.us/#{article.name}";
+      var disqus_url = "http://beerd.us/#{entry.name}";
     %script(src="http://disqus.com/forums/beerd/embed.js" type="text/javascript")
     %a.view-thread(href="http://disqus.com/forums/beerd/?url=ref")
       View the discussion thread.
@@ -62,57 +62,57 @@
     %h4
       About this Article
     %script{src:"http://platform.twitter.com/widgets.js"}
-    :if article.date
-      %dl{title: article.date}
+    :if entry.date
+      %dl{title: entry.date}
         %dt
           Date Released:
         %dd
-          &= formatDate(article.date, "%A, %B %e, %Y")
-    :if article.lastUpdated
-      %dl{title: article.lastUpdated}
+          &= formatDate(entry.date, "%A, %B %e, %Y")
+    :if entry.lastUpdated
+      %dl{title: entry.lastUpdated}
         %dt
           Last Updated:
         %dd
-          &= formatDate(article.lastUpdated, "%A, %B %e, %Y")
+          &= formatDate(entry.lastUpdated, "%A, %B %e, %Y")
 
-    :if article.node
+    :if entry.node
       %dl
         %dt
           Node Version:
         %dd
-          %a{ href: "http://github.com/joyent/node/tree/" + article.node }
-            node #{article.node}
+          %a{ href: "http://github.com/joyent/node/tree/" + entry.node }
+            node #{entry.node}
 
-    :if article.dependencies
+    :if entry.dependencies
       %dl
         %dt
           Dependency Versions:
         %dd
           %ul
-            :each dependency in article.dependencies
+            :each dependency in entry.dependencies
               %li
                 %a{ href: "http://github.com/creationix/haml-js/tree/8ea2df3a90ff488ed253d5872e0f4a387f393e5d" }
                   haml-js v0.2.2
 
-    :if article.uniqueSnippets
+    :if entry.uniqueSnippets
       %dl
         %dt
           Code Samples:
         %dd
           %ul
-            :each base, snippet in article.uniqueSnippets
+            :each base, snippet in entry.uniqueSnippets
               %li
                 %a{ href: snippet.filename}
                   &= base
 
 
 
-  :if article.related && article.related.length > 0
+  :if entry.related && entry.related.length > 0
     .bubble
       %h4
-        Other Articles by this Author
+        Other Work by this Author
       %ul
-        :each related in article.related
+        :each related in entry.related
           %li
             %a{href: "/" + related.name}&=related.title
             :if related.node

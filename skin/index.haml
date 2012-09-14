@@ -1,14 +1,14 @@
 #main.index
-  :each article in articles.slice(0,15)
+  :each entry in entries.slice(0,15)
     .article
       .author
-        %img{src:gravitar(article.author.email, 30)}
-        By #{article.author.name}
-        .date{title: article.date}&= formatDate(article.date, "%Y.%m.%d")
+        %img{src:gravitar(entry.author.email, 30)}
+        By #{entry.author.name}
+        .date{title: entry.date}&= formatDate(entry.date, "%Y.%m.%d")
       %h3
-        %a{href: "/" + article.name}&= article.title
-      = intro(article.content)
-      %a.more{href: "/" + article.name} Read more...
+        %a{href: "/" + entry.name}&= entry.title
+      = intro(entry.content)
+      %a.more{href: "/" + entry.name} Read more...
 
 #sidebar
   .aside
@@ -30,12 +30,24 @@
     %h4
       Articles
     %ul
-      :each article in articles.slice(0,20)
+      :each entry in articles.slice(0,20)
         %li
-          %a{href: "/" + article.name}&=article.title
-          &=" by " + article.author.name
-          :if article.node
-            %span.versiontag&= article.node
+          %a{href: "/" + entry.name}&=entry.title
+          &=" by " + entry.author.name
+          :if entry.node
+            %span.versiontag&= entry.node
+  
+
+  .bubble
+    %h4
+      Recipes
+    %ul
+      :each entry in recipes.slice(0,20)
+        %li
+          %a{href: "/" + entry.name}&=entry.title
+          &=" by " + entry.author.name
+          :if entry.node
+            %span.versiontag&= entry.node
   
 
 

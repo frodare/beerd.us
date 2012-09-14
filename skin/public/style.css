@@ -297,7 +297,7 @@ dl a:hover {
 }
 
 #sidebar {
-  background: transparent url('beerd_trans_300.png') no-repeat 12px 30px;
+  background: transparent url('beerd_trans_300.png') no-repeat 50% 30px;
 }
 
 #sidebar h3,
@@ -387,6 +387,7 @@ dl a:hover {
   font-size: 14px;
 }
 pre code {
+  color:#fed;
   font-family: 'Monaco', 'Menlo', monospace;
   font-size: 13px;
   background-color: #1c1d1e;

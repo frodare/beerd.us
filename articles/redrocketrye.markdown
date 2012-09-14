@@ -1,6 +1,7 @@
 Title: Red Rocket Rye Recipe
 Author: Sean Patronis
 Date: 2012-06-02 19:00
+Category: recipe
 
 A red colored ale made with rye and only amarillo hops.  A toasty grain creation with spicy notes from the rye grain.  The amarillo hops provide a flowery spicy citrus note to the finished beer.
 

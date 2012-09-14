@@ -1,6 +1,7 @@
 Title: TallaGrassy IPA Recipe
 Author: Sean Patronis
 Date: 2012-06-02 16:00
+Category: recipe
 
 
 Starting for our 2012 Pints for Paws fund raising affair, we decided to release some of our homebrew recipes to the public so that they could be recreated by aspiring homebrewers like ourselves.  These beers are always works in progess, but these were some of our more popular beverages we served.  
