@@ -8,7 +8,7 @@ Brewfest invited a bunch of local homebrewers and aspiring brewers to showcase t
 
 ## Whooo Hoo! Our Beers Rocked!
 
-<img src="brewfest2012/beerd_brewfest2012.jpg"/>
+<img src="brewfest2012/beerd_brewfest_2012.jpg"/>
 
 Rob made a Burbon Cherry Stout and I made a Graff, which a Cider Beer hybrid.  They were both well liked by the patrons of Brewfest, but the Cherry Stout that Rob made placed second by popular local beer vote.  The cider tied a couple of others for 4th place. Though my favorite beer of the local brews was the [Grasslands Brewing][] LeRoy the Red.
 
@@ -18,7 +18,7 @@ Rob made a Burbon Cherry Stout and I made a Graff, which a Cider Beer hybrid.  T
 
 As you can see in the first image, Rob and I decided to construct a toolbox tap out of stuff we had lying around.  Overall, the tap build was a success. We have access to the beer lines to chill the beer and access to beer shanks to break everything down.  We cannot take credit for it being an original idea, this image is what inspired us:
 [Toolbox Tap Inspiration][]
-
+It is amazaing what a little paint, stain and laquer can do!
 
 [Grasslands Brewing]: http://grasslandsbrewery.com/
 [Beerd]: https://www.facebook.com/Beerdbrews
