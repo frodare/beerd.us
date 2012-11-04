@@ -8,15 +8,11 @@ After our inital stock is purchased, I will process all orders when I get enough
 
 ## Beerd Brewing Shirts
 
+<img src="shirts/Beerd-Brewing-Mock-up-small.jpg"/>
 
 
-		<div class="wrapper">
-			<div class="header">
-				<div class="menu-link"><a href="/">HOME</a></div>
-				<div class="menu-link"><a href="/recipes">RECIPES</a></div>
-				<div class="menu-link"><a href="/about">ABOUT</a></div>
-			</div>
-			<br>
+
+
 			<div class="logo"><img src="images/Beerd-Brewing-Mock-up-small.jpg"></a></div>
 			<div class="logo">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
