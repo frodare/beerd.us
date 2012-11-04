@@ -1,6 +1,6 @@
 Title: Beerd Shirts
 Author: Sean Patronis
-Date: 2012-10-4 8:00
+Date: 2012-11-3 8:00
 
 Since there has been renewed interest in shirts, 
 Beerd Shirts are able to be ordered once again!  
