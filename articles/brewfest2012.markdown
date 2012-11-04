@@ -18,7 +18,7 @@ Rob made a Burbon Cherry Stout and I made a Graff, which a Cider Beer hybrid.  T
 
 As you can see in the first image, Rob and I decided to construct a toolbox tap out of stuff we had lying around.  Overall, the tap build was a success. We have access to the beer lines to chill the beer and access to beer shanks to break everything down.  We cannot take credit for it being an original idea, this image is what inspired us:
 [Toolbox Tap Inspiration][]
-It is amazaing what a little paint, stain and laquer can do!
+It is amazing what you can do with a 70's style metal toolbox, a little paint, stain and polyurathane!
 
 [Grasslands Brewing]: http://grasslandsbrewery.com/
 [Beerd]: https://www.facebook.com/Beerdbrews
