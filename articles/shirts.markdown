@@ -13,8 +13,6 @@ After our inital stock is purchased, I will process all orders when I get enough
 
 
 
-			<div class="logo"><img src="images/Beerd-Brewing-Mock-up-small.jpg"></a></div>
-			<div class="logo">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="NZ73P6AUPQ56W">
@@ -32,8 +30,7 @@ After our inital stock is purchased, I will process all orders when I get enough
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-			</div>
-		</div>
+
 
 
 
