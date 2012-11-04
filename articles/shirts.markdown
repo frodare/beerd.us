@@ -1,8 +1,14 @@
-<html>
-  <head>
-    <title>Beerd Brewing</title>
-  </head>
-	<body>
+Title: Beerd Shirts
+Author: Sean Patronis
+Date: 2012-10-4 8:00
+
+Since there has been renewed interest in shirts, 
+Beerd Shirts are able to be ordered once again!  
+After our inital stock is purchased, I will process all orders when I get enough to do a 10 shirt run or so.  
+
+## Beerd Brewing Shirts
+
+
 
 		<div class="wrapper">
 			<div class="header">
@@ -33,5 +39,5 @@
 			</div>
 		</div>
 
- 	</body>
-</html>
+
+
